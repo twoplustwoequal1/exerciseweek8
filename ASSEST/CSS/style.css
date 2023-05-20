@@ -1,0 +1,23 @@
+body {
+background-color: #90EE90;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+#clock {
+  font-size: 25px;
+  font-family: Arial;
+  color: #000000;
+  width: 900px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+}
